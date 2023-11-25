@@ -1,10 +1,7 @@
 ruwan
 amuka 
 dumuka
-<<<<<<< HEAD
 kamalsin
 bimalsoin
-=======
 abe
 dube
->>>>>>> my
