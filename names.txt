@@ -7,3 +7,5 @@ abe
 dube
 amare
 amare
+samare
+samare
